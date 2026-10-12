@@ -100,6 +100,10 @@ Pre-release. MAIAS is pre-1.0, so the format and tooling may change in breaking 
 
 The videos were recorded in July 2026 and show an earlier version number in the sample document; the current spec is v0.3.
 
+## Licence
+
+The words, images and videos in this repo are © 2026 Mark Chitty, licensed under [CC BY 4.0](LICENSE) — share and adapt them freely, with credit. MAIAS itself (the spec, schema, tooling and the sample document above) is licensed under [Apache-2.0](https://github.com/MAIAS-project/maias/blob/main/LICENSE).
+
 ---
 
 Built by [@TechPdM](https://github.com/TechPdM).
