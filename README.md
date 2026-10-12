@@ -5,7 +5,8 @@
 This repo is the short tour. The spec, tooling and source live at **[MAIAS-project/maias](https://github.com/MAIAS-project/maias)**.
 
 <!-- VIDEO SLOT 1 — replace the image line below with the GitHub attachment URL for videos/maias-story.mp4 -->
-[![Why I built MAIAS — 16 second story](media/poster-story.png)](videos/maias-story.mp4)
+https://github.com/user-attachments/assets/d9c17bf6-de1c-46be-8d15-9381a7a91e23
+<!-- [![Why I built MAIAS — 16 second story](media/poster-story.png)](videos/maias-story.mp4) -->
 
 ## Why I built it
 
