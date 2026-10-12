@@ -44,7 +44,8 @@ screens:
 You define it. Agents create it. Everyone uses it.
 
 <!-- VIDEO SLOT 2 — replace the image line below with the GitHub attachment URL for videos/maias-intro.mp4 -->
-[![MAIAS in 30 seconds](media/poster-intro.png)](videos/maias-intro.mp4)
+
+<!-- [![MAIAS in 30 seconds](media/poster-intro.png)](videos/maias-intro.mp4) -->
 
 ## The plugin: describe → create → review → edit → wireframe
 
@@ -66,7 +67,8 @@ Then just ask: *"create an IA for a recipe app"*.
 | **wireframe** | One HTML file, no JavaScript, every link clickable — including empty, loading and error states |
 
 <!-- VIDEO SLOT 3 — replace the image line below with the GitHub attachment URL for videos/maias-plugin-demo.mp4 -->
-[![The MAIAS plugin, start to finish — 75 seconds](media/poster-plugin-demo.png)](videos/maias-plugin-demo.mp4)
+https://github.com/user-attachments/assets/87250501-b2e6-46a4-aec6-2fc5b27aa529
+<!-- [![The MAIAS plugin, start to finish — 75 seconds](media/poster-plugin-demo.png)](videos/maias-plugin-demo.mp4) -->
 
 ## Try it without installing anything
 
